@@ -73,6 +73,9 @@ if op_string[-1] in rev:
 
 #findword={}
 
+# Below is an old code for correction of the transliterated text.
+# Go ahead and make a dictionary for correction of the text and maybe store it in a file or add it in the .pkl file
+
 """
 def makedict():#to make a dict of correction file
     file=open("correction.txt","r")
